@@ -1,4 +1,3 @@
-// src/services/api.js
 import axios from 'axios';
 
 const apiKey = process.env.RAPIDAPI_KEY;
